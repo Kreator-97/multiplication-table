@@ -1,6 +1,6 @@
 {
-  "name": "table-multiplication",
-  "version": "1.0.0",
+  "name": "multiplicacion-table",
+  "version": "1.0.1",
   "description": "Una aplicacion por consola que te devuelve las tablas de multiplicar en un archivo de texto",
   "main": "app.js",
   "scripts": {
